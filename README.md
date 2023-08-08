@@ -2,7 +2,7 @@
 加速度検出式サボり防止デバイス（笑）
 雑なつくりかたまとめ
 
-材料
+**材料
 Arduino Uno（とUSBケーブル）
 電子ブザー（70円）：https://akizukidenshi.com/catalog/g/gP-09800/
 加速度センサー（500円）：https://akizukidenshi.com/catalog/g/gK-15232/
